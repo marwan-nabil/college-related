@@ -1,0 +1,2 @@
+# a simple shell program
+this is a programming assignment for the operating systems course, it focuses on using the fork() and execvp() system calls, it parses input arguments and detects the background directive (&) also.

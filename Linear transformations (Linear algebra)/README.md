@@ -1,0 +1,2 @@
+# 2D linear transformation program
+a linear algebra course assignment, it takes a set of vertices in 2d space as inputs to form a polygon, then the user chooses multiple consecutive linear transformations to be done on that polygon, and the result is plotted at the end.
